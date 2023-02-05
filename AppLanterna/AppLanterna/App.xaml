@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppLanterna.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Style x:Key="fonteCustomizada" TargetType="Label">
+                <Setter Property="FontFamily">
+                    <Setter.Value>
+                        <OnPlatform x:TypeArguments="x:String"
+                                    iOS="coolvetica rg.otf"
+                                    Android="coolvetica rg.otf#coolvetica rg"/>
+                    </Setter.Value>
+                </Setter>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="VerticalOptions" Value="Center"/>
+                <Setter Property="TextColor" Value="White"/>
+            </Style>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

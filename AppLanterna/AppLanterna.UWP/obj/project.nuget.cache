@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "MG0K3+HzLcR5/eoVIqCYfcUhQ3c5o4Eo4fqPXJyhRbYL/fN33R9NCVjD9VZZ/qMOIAR5O8Tu5VvlBo1ApuGJnQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\AppLanterna\\AppLanterna\\AppLanterna.UWP\\AppLanterna.UWP.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Falha ao baixar o pacote 'runtime.win10-arm.Microsoft.Net.Native.Compiler.2.2.10-rel-29722-00' de 'https://api.nuget.org/v3-flatcontainer/runtime.win10-arm.microsoft.net.native.compiler/2.2.10-rel-29722-00/runtime.win10-arm.microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg'.\r\nA solicitação HTTP para 'GET https://api.nuget.org/v3-flatcontainer/runtime.win10-arm.microsoft.net.native.compiler/2.2.10-rel-29722-00/runtime.win10-arm.microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg' expirou após 100000ms."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Falha ao baixar o pacote 'runtime.win10-x64.Microsoft.Net.Native.Compiler.2.2.10-rel-29722-00' de 'https://api.nuget.org/v3-flatcontainer/runtime.win10-x64.microsoft.net.native.compiler/2.2.10-rel-29722-00/runtime.win10-x64.microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg'.\r\nA solicitação HTTP para 'GET https://api.nuget.org/v3-flatcontainer/runtime.win10-x64.microsoft.net.native.compiler/2.2.10-rel-29722-00/runtime.win10-x64.microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg' expirou após 100000ms."
+    }
+  ]
+}
